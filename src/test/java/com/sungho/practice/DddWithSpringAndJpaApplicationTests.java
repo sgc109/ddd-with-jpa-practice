@@ -8,6 +8,7 @@ class DddWithSpringAndJpaApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
